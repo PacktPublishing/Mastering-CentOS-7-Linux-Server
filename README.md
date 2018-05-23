@@ -24,7 +24,7 @@ If you are a Linux system administrator at an intermediate administration level,
 ### Technical Requirements
 This course has the following software requirements:<br/>
 Linux Operating System
-[VirtualBox] (https://www.virtualbox.org/) or [VMWare] (https://www.vmware.com/in.html) workstation
+[VirtualBox](https://www.virtualbox.org/) or [VMWare](https://www.vmware.com/in.html) workstation
 
 ## Related Products
 * [Mastering CentOS 7 Linux Server](https://www.packtpub.com/networking-and-servers/mastering-centos-7-linux-server?utm_source=github&utm_medium=repository&utm_campaign=9781785282393)
